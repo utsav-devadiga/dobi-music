@@ -281,7 +281,7 @@ body .card .play-list .track .track-duration {
   margin-top: 100px;
   font-family: "Dancing Script", cursive;
   opacity: 1;
-  animation: fade 2s forwards;
+  animation: fade 4s forwards;
 }
 
 @keyframes fade {
