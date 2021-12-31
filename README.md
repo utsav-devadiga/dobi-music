@@ -1,7 +1,7 @@
 
 # Music 🎵
 
-**Html css Music player!** 
+**Html-css-js Music player!** 
 Live Preview - [Click Here](http://utsav-devadiga.github.io/dobi-music)
 
 This is a Portfolio theme built with HTML, CSS & JavaScript. Feel free to use it in your own project.
