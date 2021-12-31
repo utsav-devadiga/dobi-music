@@ -1,5 +1,5 @@
 
-# Music ❤️
+# Music 🎵
 
 **Html css Music player!** 
 Live Preview - [Click Here](http://utsav-devadiga.github.io/dobi-music)
